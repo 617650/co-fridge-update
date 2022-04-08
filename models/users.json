@@ -1,0 +1,168 @@
+[
+    {
+      "username": "Tiange",
+      "password": "123",
+      "userID": "23423424223",
+      "name": "Tiange W.",
+      "friends": [
+          {"username": "Luca"},
+          {"username": "Julia"},
+          {"username": "Macy"},
+          {"username": "Aria"},
+          {"username": "Michael"},
+          {"username": "Daniel"},
+          {"username": "Morris"}
+        ],
+      "createdFridges": [],
+      "joinedFridges": [],
+      "items": [],
+      "claimedItems": 
+      [
+        {
+            "name": "Tomato",
+            "quantity": "2",
+            "start": "8:30AM",
+            "end": "9:00AM",
+            "id": "dgdfgdfgdfg",
+            "status": "2",
+            "creatorID": "23423424223"
+        },
+        {
+            "name": "Peach",
+            "quantity": "2",
+            "start": "8:30AM",
+            "end": "9:00AM",
+            "id": "werwerwerwer",
+            "status": "2",
+            "creatorID": "23423424223"
+        },
+        {
+            "name": "Potato",
+            "quantity": "3",
+            "start": "8:30AM",
+            "end": "9:00AM",
+            "id": "fhgfghfghfg",
+            "status": "3",
+            "creatorID": "23423424223"
+        },
+        {
+            "name": "Banana",
+            "quantity": "3",
+            "start": "8:30AM",
+            "end": "9:00AM",
+            "id": "sfsfdsdf",
+            "status": "3",
+            "creatorID": "23423424223"
+        }
+      ],
+      "dates": [],
+      "points": 20,
+      "location": "Cambridge, MA",
+      "bio": ""
+    },
+    {
+        "username": "Luca",
+        "password": "123",
+        "userID": "23423424223",
+        "name": "",
+        "friends": [],
+        "createdFridges": [],
+        "joinedFridges": [],
+        "items": [],
+        "claimedItems": [],
+        "dates": [],
+        "points": 0,
+        "location": "",
+        "bio": ""
+      },
+      {
+        "username": "Julia",
+        "password": "123",
+        "userID": "23423424223",
+        "name": "",
+        "friends": [],
+        "createdFridges": [],
+        "joinedFridges": [],
+        "items": [],
+        "claimedItems": [],
+        "dates": [],
+        "points": 0,
+        "location": "",
+        "bio": ""
+      },
+      {
+        "username": "Macy",
+        "password": "123",
+        "userID": "23423424223",
+        "name": "",
+        "friends": [],
+        "createdFridges": [],
+        "joinedFridges": [],
+        "items": [],
+        "claimedItems": [],
+        "dates": [],
+        "points": 0,
+        "location": "",
+        "bio": ""
+      },
+      {
+        "username": "Aria",
+        "password": "123",
+        "userID": "23423424223",
+        "name": "",
+        "friends": [],
+        "createdFridges": [],
+        "joinedFridges": [],
+        "items": [],
+        "claimedItems": [],
+        "dates": [],
+        "points": 0,
+        "location": "",
+        "bio": ""
+      },
+      {
+        "username": "Michael",
+        "password": "123",
+        "userID": "23423424223",
+        "name": "",
+        "friends": [],
+        "createdFridges": [],
+        "joinedFridges": [],
+        "items": [],
+        "claimedItems": [],
+        "dates": [],
+        "points": 0,
+        "location": "",
+        "bio": ""
+      },
+      {
+        "username": "Daniel",
+        "password": "123",
+        "userID": "23423424223",
+        "name": "",
+        "friends": [],
+        "createdFridges": [],
+        "joinedFridges": [],
+        "items": [],
+        "claimedItems": [],
+        "dates": [],
+        "points": 0,
+        "location": "",
+        "bio": ""
+      },
+      {
+        "username": "Morris",
+        "password": "123",
+        "userID": "23423424223",
+        "name": "",
+        "friends": [],
+        "createdFridges": [],
+        "joinedFridges": [],
+        "items": [],
+        "claimedItems": [],
+        "dates": [],
+        "points": 0,
+        "location": "",
+        "bio": ""
+      }
+  ]
